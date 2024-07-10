@@ -4,6 +4,18 @@ Materia electiva de Ciencias Naturales para la carrera Licenciatura en Ciencia d
 
 > https://lcd.exactas.uba.ar/materias/
 
+---
+
+#### Cuaderno de Laboratorio
+
+> [Labo 1](Laboratorios/Labo01-02/Labo01.ipynb)
+>
+> [Labo 2] (Laboratorios/Labo03-04/Labo02.ipynb)
+>
+> [Labo 3] (Laboratorios/Labo04-05/Labo03.ipynb)
+
+---
+
 #### Campus de la materia - DF
 
 > https://materias.df.uba.ar/mytb2024c1/
