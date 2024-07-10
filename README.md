@@ -8,11 +8,11 @@ Materia electiva de Ciencias Naturales para la carrera Licenciatura en Ciencia d
 
 #### Cuaderno de Laboratorio
 
-> [Labo 1](Laboratorios/Labo01-02/Labo01.ipynb)
->
-> [Labo 2] (Laboratorios/Labo03-04/Labo02.ipynb)
->
-> [Labo 3] (Laboratorios/Labo04-05/Labo03.ipynb)
+> [Labo 1](laboratorios/Labo01/Labo01.ipynb)
+> 
+> [Labo 2](laboratorios/Labo03-04/Labo02.ipynb)
+> 
+> [Labo 3](laboratorios/Labo05-06/Labo03.ipynb)
 
 ---
 
